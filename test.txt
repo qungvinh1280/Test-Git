@@ -1,1 +1,2 @@
 B1: test
+B2: create branch #test1
